@@ -4,8 +4,7 @@ public class Estructuras_IF {
 
         String name = "Rosa";
         int edad = 7;
-        boolean casada = true;
-        double altura = 1.75;
+   
 
         if (edad > 17) {
             System.out.println("Edad de " + name + " es: " + edad + "; es mayor de edad");
@@ -14,8 +13,6 @@ public class Estructuras_IF {
         } 
     }
 
-    public static void ejemlpo2() {
-        
 
 }
 
