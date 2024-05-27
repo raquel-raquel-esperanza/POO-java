@@ -45,8 +45,6 @@ public class Funciones {
                 break;
         }
 
-       
-
         // Imprimir el resultado de la suma
         System.out.println("El resultado es: " + resultado);
 
