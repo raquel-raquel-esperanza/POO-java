@@ -27,5 +27,6 @@ public class Estructura_For_Arbol {
             System.out.print(" ");
         }
         System.out.println("|||");
+        scanner.close();
     }
 }
