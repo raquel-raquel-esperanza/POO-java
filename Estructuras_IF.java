@@ -4,6 +4,8 @@ public class Estructuras_IF {
 
         String name = "Rosa";
         int edad = 7;
+        boolean casada = false;
+        double altura = 1.75;
    
 
         if (edad > 17) {
