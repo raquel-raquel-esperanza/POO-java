@@ -38,7 +38,8 @@ public class Estructura_Switch {
                 // Imprimir el resultado    
                 System.out.println("El automóvil " + marca + " posee una transmision: " + Transmision + "; no es una transmision correcta");
                 // Romper el switch
-                break;
+                break;                
         }
+        scanner.close();                
     }
 }

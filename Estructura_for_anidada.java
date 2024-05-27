@@ -17,7 +17,8 @@ public class Estructura_for_anidada {
         // Imprimir el mensaje y leer la entrada del usuario
         System.out.print("Ingrese el numero de columnas: ");
         int width = scanner.nextInt();
-
+       
+        scanner.close();
         //Imprime las Filas
         for (int i = 0; i < height; i++) {
             //numeros aleatorios
@@ -35,6 +36,7 @@ public class Estructura_for_anidada {
             //salto de linea
             System.out.println();
         }
+        
     }
 
 
