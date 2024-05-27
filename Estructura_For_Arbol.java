@@ -22,7 +22,7 @@ public class Estructura_For_Arbol {
         }
 
         // Imprimir los caracteres "|||" centrados al final del árbol
-        int spaces = height - 1;
+        int spaces = height - 2;
         for (int i = 0; i < spaces; i++) {
             System.out.print(" ");
         }
